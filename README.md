@@ -1,1 +1,1 @@
-Code to accompany 'Asymptotics and enumeration of cospectral graphs via switching methods'.
+Code to accompany 'Counting cospectral graphs via switching'.
